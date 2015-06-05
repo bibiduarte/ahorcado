@@ -1,0 +1,3 @@
+describe ahorcado do
+  
+end
